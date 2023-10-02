@@ -1,0 +1,24 @@
+.Board{
+  text-align: center;
+  margin: 20px;
+  /* border: 2px solid gray; */
+}
+.row{
+    display: flex;
+}
+.wincard{
+  height: 20rem;
+  width: 20rem;
+  background-color: aquamarine;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: monospace;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+
+
+}
